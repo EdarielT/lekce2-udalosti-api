@@ -8,3 +8,7 @@ let beBold = () => {
 let beRed = () => {
     lev.classList.toggle('red');
 }
+
+let beBigger = () => {
+    lev.style.fontSize = 'larger';
+}
